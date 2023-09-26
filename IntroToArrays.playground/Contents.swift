@@ -28,3 +28,17 @@ for name in fruitNames
 print(fruitNames[1])
 
 
+//Do on your own
+//Sorry professor, I'm going to do brands of expensive cars.
+var brandNames: [String]
+
+brandNames = ["Mercedes", "Ferrari", "Laborghini", "BMW", "Bentley", "Porsche", "Bugatti", "Audi"]
+
+print(brandNames)
+
+for name in brandNames
+{
+    print(name + "is a very expensive brand for cars")
+}
+
+print(brandNames[1])
